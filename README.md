@@ -43,7 +43,7 @@ API externa a ser consumida
 ```
 1 - chamará a API externa;
 2 - processará o JSON recebido;
-3 - enviará pro twitter;
+3 - enviará pro tweet;
 ```
 
 - Twitter Develop
