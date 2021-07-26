@@ -50,7 +50,7 @@ API externa a ser consumida
 ```
 Diretrizes pra formular e enviar
 via API
-um twitte
+um tweet
 com previsão do tempo
 ```
 
